@@ -42,6 +42,7 @@
 <br />
 
 <!--Github stats Table--> 
+<!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -67,8 +68,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="http://mahesh06.me/The-Diary..../">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=The-Diary&theme=nightowl&show_owner=true" alt="Latest Project" />
+        <a href="http://mahesh06.me/The-Diary..../">  <!-- Ensure this URL is correct -->
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=The-Diary&theme=nightowl&show_owner=true" alt="The Diary Project" />
         </a>
       </p>
     </td>
@@ -82,6 +83,7 @@
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
