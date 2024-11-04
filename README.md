@@ -11,13 +11,11 @@
 <!--Start Intro-->               
 <p align="left">I am a Machine Learning and Software Developer with a huge love for Python, Generative AI, Data Structures, Algorithms, and Technology.</p>
 
-- 👋 Hi, I’m Mahesh
-- 👀 I’m interested in Data Structures and Algorithms (DSA), particularly in optimizing search algorithms and understanding complex data structures.
-- 🌱 I’m currently learning DSA and focusing on dynamic programming and graph algorithms. I’m also working on a few small projects to apply what I’ve learned.
-- 💞️ I’m looking to collaborate on developing a website that provides resources and interactive tutorials for DSA, utilizing a range of technologies including HTML, CSS, JavaScript, and backend technologies. I’m also interested in contributing to open-source DSA projects and educational content on algorithm design and implementation. 
-- 📫 How to reach me: Feel free to reach out to me via [chitikeshimahesh6@gmail.com](mailto:chitikeshimahesh6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh-chitikeshi-b7a0982b9).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik’s cube in under a minute and I’ve traveled to 10 different countries!
+- ✨ Student of life :)
+- 🌱 I’m currently learning DSA, focusing on dynamic programming and graph algorithms.
+- 💁‍♂️ Interested in collaborating on developing a DSA resource website.
+- 💻 Visit my [Portfolio](http://mahesh06.me/) for more details about me.
+<!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -25,40 +23,69 @@
 </p>
 
 ---
+<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,nodejs,express,django,flask,fastapi,opencv,pytorch,sklearn,selenium,tensorflow,mysql,mongodb,git,github,vscode,docker,gcp,postman,linux,anaconda,md&perline=10"  />
+<img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,nodejs,express,django,flask,fastapi,opencv,pytorch,sklearn,selenium,tensorflow,mysql,mongodb,git,github,vscode,docker,gcp,postman,linux,anaconda,md&perline=10" />
 </p>
 <br />
 
-<!--Streak Stats-->
-<h2 align="center">📊 Streak Stats 📊</h2>
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-    <a href="https://github.com/Mahesh-ch06">
-        <img align="center" src="https://streak-stats.demolab.com?user=Mahesh-ch06&theme=nightowl" alt="Streak Stats" />
-    </a>
+  <a href="https://github.com/Mahesh-ch06/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-ch06&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
 </p>
+<br />
 
-<!--Latest Project-->
-<h2 align="center">📌 Latest Project 📌</h2>
-<p align="center">
-    <a href="https://github.com/Mahesh-ch06/Your_Latest_Project_Repo">
-        <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=Your_Latest_Project_Repo&theme=nightowl&show_owner=true" alt="Latest Project" />
-    </a>
-</p>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<!--Top Contributions-->
-<h2 align="center">🌟 Top Contributions 🌟</h2>
-<p align="center">
-    <a href="https://github.com/Mahesh-ch06">
-        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Mahesh-ch06&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
-    </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mahesh-ch06">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahesh-ch06&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mahesh-ch06">
+          <img align="center" src="https://streak-stats.demolab.com?user=Mahesh-ch06&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="http://mahesh06.me/The-Diary..../">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=The-Diary&theme=nightowl&show_owner=true" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Mahesh-ch06">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Mahesh-ch06&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Contribution Graph 📈</h2>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-ch06&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" alt="Contribution Graph" />
 </div>
